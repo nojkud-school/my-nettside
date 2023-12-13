@@ -1,0 +1,22 @@
+body{
+    background-image: url("bolger.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    background-color: yellow;
+    font-size: 20px;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    position: relative;
+}
+
+.center{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%)
+}
